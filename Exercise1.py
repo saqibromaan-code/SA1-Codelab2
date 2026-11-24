@@ -7,6 +7,7 @@ root.title("Math Quiz")
 root.geometry("800x600")
 root.resizable(False, False)
 
+# TEST Github alignment
 
 # Background image
 try:
